@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves building cool things and learning new technologies.
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning Web-designing
+- 🔭 I’m currently working as a Research Fellow (Postdoctoral Researcher) at the University of Portsmouth
+- 🌱 I’m currently learning: Full stack developing 
 - 💬 Ask me about High-perfomance / High-throughput computing, Time-series analysis, Bayesian Inference, Machine Learning
 - 📫 How to reach me: rahuldhurkunde@gmail.com
 
