@@ -24,5 +24,5 @@ Here's a snake eating my contribution graph!
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuldhurkunde&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahuldhurkunde&show_icons=true&theme=radical&v=1" alt="Rahul's GitHub Stats" />
 </div>
