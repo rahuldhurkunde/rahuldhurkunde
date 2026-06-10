@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working as a Research Fellow (Postdoctoral Researcher) at the University of Portsmouth
-- 🌱 I’m currently learning: Full stack developing 
+- 🌱 I’m currently learning: Full stack web and app development  
 - 💬 Ask me about High-perfomance / High-throughput computing, Time-series analysis, Bayesian Inference, Machine Learning
 - 📫 How to reach me: rahuldhurkunde@gmail.com
 
