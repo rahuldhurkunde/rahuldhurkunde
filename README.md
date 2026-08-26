@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building cool things and learning new technologies.
+Welcome to my GitHub profile! I'm a passionate developer who loves building apps and learning new technologies.
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working as a Research Fellow (Postdoctoral Researcher) at the University of Portsmouth
